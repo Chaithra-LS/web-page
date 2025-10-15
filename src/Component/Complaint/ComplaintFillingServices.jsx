@@ -364,7 +364,7 @@ const ComplaintFillingServices = () => {
   return (
     <div className="container mx-auto p-4">
       {/* Title Section (Existing) */}
-      <div className="text-gray-900 pt-12 text-2xl md:text-3xl font-bold mb-8 text-center">
+      <div className="text-gray-900 pt-12 text-3xl md:text-3xl font-bold mb-8 text-start">
         Complaint Filling Services
       </div>
 
